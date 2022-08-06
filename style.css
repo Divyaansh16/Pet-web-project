@@ -1,0 +1,17 @@
+body{
+    color:purple;
+    text-align: center;
+}
+#pet_name{
+    color: brown;
+}
+img{
+    border: 10px solid lightgray;
+}
+.fact1{
+    background-color: gray;
+    /* border-color: purple; */
+    border-radius: 5px;
+    color: white;
+    border: 1px solid purple;
+}
